@@ -1,0 +1,14 @@
+{
+  "math": {
+    "Grade": "B",
+    "Credits": 4
+  },
+  "english": {
+    "Grade": "A",
+    "Credits": 3
+  },
+  "data": {
+    "Grade": "C",
+    "Credits": 4
+  }
+}
