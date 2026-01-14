@@ -3,7 +3,7 @@
 A simple GPA and course tracker that allows you to add and remove courses, calculate gpa, and save/load data.
 
 # Simple Features
-- Add a course (Gpa, name, credits)
+- Add a course (Grade, name, credits)
 - Remove a course
 - Calculate GPA
 - View all classes
@@ -16,7 +16,7 @@ A simple GPA and course tracker that allows you to add and remove courses, calcu
 # How to run
 
 1. Download this repo
-2. Open terminal in the project folder
+2. Open a terminal in the project folder
 3. Run:
 
 ```bash
